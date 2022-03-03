@@ -1,5 +1,2 @@
 #!/bin/bash
-0 string SCHOOL School data
-!:mime School
-chmod u+x school.mgc file -c -m my-magic
-file -c -m school.mgc *
+echo "SCHOOL" > school.mgc
